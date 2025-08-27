@@ -94,11 +94,6 @@ I've successfully delivered solutions across multiple domains:
 - 🎓 **Associate Degree** - Informatics Management, Politeknik Negeri Jember (2013-2016)
 - 🎓 **Vocational High School** - Computer Systems Networking, SMK Negeri 2 Jember (2010-2013)
 
-## 📈 GitHub Stats
-
-![Nanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kikik-dev&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kikik-dev&layout=compact&theme=radical)
-
 ## 🤝 Let's Connect!
 
 I'm always interested in collaborating on exciting projects and discussing new opportunities. Feel free to reach out!
@@ -111,5 +106,3 @@ I'm always interested in collaborating on exciting projects and discussing new o
 ---
 
 ⭐️ **"Delivering innovative solutions through clean, efficient, and maintainable code"** ⭐️
-
-![Profile Views](https://komarev.com/ghpv/?username=kikik-dev&color=brightgreen)
