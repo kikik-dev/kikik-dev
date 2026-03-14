@@ -9,7 +9,7 @@
 **Senior Fullstack Developer** with **10+ years** of experience crafting robust web applications. I'm passionate about building scalable solutions that solve real-world problems and drive business success.
 
 - 🔭 Currently working as **Senior Fullstack Developer** at **BCI Central** (Sydney, Australia - Remote)
-- 🌱 Successfully delivered **137+ projects** across diverse industries
+- 🌱 Successfully delivered **147+ projects** across diverse industries
 - 💼 **100% client satisfaction rate** as a freelance developer
 - 🎯 Expertise spanning the entire development lifecycle: design → development → testing → deployment
 - 📫 Reach me at: **kikik.dev@gmail.com**
