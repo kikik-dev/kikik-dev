@@ -72,7 +72,7 @@ I've successfully delivered solutions across multiple domains:
 - 🛒 **E-commerce & Digital Platforms**
 - 📰 **Digital News & Media**
 - 💼 **Accounting & Financial Systems**
-- 🚛 **Transportation & Logistics** (Serasa Autoraya)
+- 🚛 **Transportation & Logistics** (Serasi Autoraya)
 - ✈️ **Aircraft Maintenance Systems** (GMF AeroAsia)
 - 🏛️ **Government Systems** (Malang City Government)
 - ⛽ **Oil & Gas Technology** (Elnusa Petrofin)
