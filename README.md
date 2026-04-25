@@ -55,8 +55,8 @@
 
 ## 📊 Key Achievements
 
-- 🎯 **137+ Projects Delivered** across diverse industries
-- 🚀 **120+ Jira Tickets** completed at BCI Central
+- 🎯 **170+ Projects Delivered** across diverse industries
+- 🚀 **250+ Jira Tickets** completed at BCI Central
 - 📈 **API Performance Optimization**: Improved response time by 60% (500ms → 200ms)
 - 🔄 **Data Migration**: Successfully migrated 2M+ unstructured data points into 11M+ structured records
 - 📱 **27+ New Features** delivered, actively used by 200+ researchers
