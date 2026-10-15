@@ -6,13 +6,13 @@
 
 ## 🚀 About Me
 
-**Senior Fullstack Developer** with **10+ years** of experience crafting robust web applications. I'm passionate about building scalable solutions that solve real-world problems and drive business success.
+**Senior Fullstack Developer** with **11+ years** of experience crafting robust web applications. I'm passionate about building scalable solutions that solve real-world problems and drive business success.
 
 - 🔭 Currently working as **Senior Fullstack Developer** at **BCI Central** (Sydney, Australia - Remote)
-- 🌱 Successfully delivered **170+ projects** across diverse industries
+- 🌱 Successfully delivered **186+ projects** across diverse industries
 - 💼 **100% client satisfaction rate** as a freelance developer
 - 🎯 Expertise spanning the entire development lifecycle: design → development → testing → deployment
-- 📫 Reach me at: **kikik.dev@gmail.com | nanda.rizki.dp@gmail.com**
+- 📫 Reach me at: **nanda.rizki.dp@gmail.com | kikik.dev@gmail.com**
 
 ## 💻 Tech Stack
 
