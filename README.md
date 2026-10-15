@@ -99,7 +99,7 @@ I've successfully delivered solutions across multiple domains:
 I'm always interested in collaborating on exciting projects and discussing new opportunities. Feel free to reach out!
 
 - 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/kikikdev)
-- 🌐 **Portfolio**: [View my work](https://kikik.dev)
+- 🌐 **Portfolio**: [View my work](https://tinyurl.com/5n8d25b6)
 - 📧 **Email**: kikik.dev@gmail.com
 - 📱 **Phone**: +6282333316323
 
