@@ -100,7 +100,7 @@ I'm always interested in collaborating on exciting projects and discussing new o
 
 - 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/kikikdev)
 - 🌐 **Portfolio**: [View my work](https://tinyurl.com/5n8d25b6)
-- 📧 **Email**: kikik.dev@gmail.com
+- 📧 **Email**: nanda.rizki.dp@gmail.com | kikik.dev@gmail.com
 - 📱 **Phone**: +6282333316323
 
 ---
